@@ -1,0 +1,30 @@
+{
+    "name" : "",
+    "class" : "",
+    "class_level" : 0,
+    "multi_classes" : {},
+    "sub_classes" : {},
+    "level" : 0,
+    "race" : "",
+    "sub_race" : "",
+    "background" : "",
+    "languages" : [],
+    "skill_proficiencies" : [],
+    "ability_scores" : {
+        "strength" : 0,
+        "dexterity" : 0,
+        "constitution" : 0,
+        "intelligence" : 0,
+        "wisdom" : 0,
+        "charisma" : 0
+    },
+    "max_hp_rolls" : [],
+    "equipment" : {},
+    "attuned_items" : [],
+    "spells" : [],
+    "age" : 0,
+    "alignment" : "",
+    "size" : 0.0,
+    "weight" : 0.0,
+    "description" : ""
+}
