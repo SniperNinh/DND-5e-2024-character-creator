@@ -1,0 +1,18 @@
+{
+    "equipment_name": "padded armor",
+    "equipment_type": "",
+    "equipment_type_details": {
+        "armor_category": "light",
+        "armor_class": 11,
+        "armor_strength": 0,
+        "armor_stealth_disadvantage": true
+    },
+    "equipment_worth": {
+        "platinum": 0,
+        "electrum": 0,
+        "gold": 5,
+        "silver": 0,
+        "copper": 0
+    },
+    "equipment_weight": 8.0
+}

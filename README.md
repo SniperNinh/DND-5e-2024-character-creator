@@ -1,8 +1,9 @@
 # DnD-5e-Character-generator
 Helps creating a DND 5e character sheet
 
-creates a raw character stat sheet which can be used for making a full character sheet (its so stuff like ability score rolls are saved when leveling up)
-makes a character_sheet.json
+
+makes a character_sheet.json which can be leveled up or displayed
+
 
 ## Modules:
   - pip install pyfiglet
