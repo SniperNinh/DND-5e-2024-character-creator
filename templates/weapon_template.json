@@ -1,0 +1,9 @@
+{
+    "weapon_name" : "",
+    "weapon_category" : "",
+    "weapon_range" : [0, 0],
+    "weapon_type" : "",
+    "weapon_damage" : [],
+    "weapon_properties" : {},
+    "weapon_mastery" : ""
+}

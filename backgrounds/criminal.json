@@ -1,0 +1,21 @@
+{
+    "background_name" : "criminal",
+    "background_abilities" : {},
+    "background_feat" : "",
+    "background_skill_proficiencies" : [
+        
+    ],
+    "background_tool_proficiencies" : [
+        
+    ],
+    "background_equipment" : {
+        
+    },
+    "wealth" : {
+        "platinum" : 0,
+        "electrum" : 0,
+        "gold" : 0,
+        "silver" : 0,
+        "copper" : 0
+    }
+}

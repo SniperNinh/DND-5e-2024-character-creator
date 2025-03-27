@@ -1,0 +1,29 @@
+{
+    "background_name" : "artisan",
+    "background_abilities" : [
+        "strength",
+        "dexterity",
+        "intelligence"
+    ],
+    "background_feat" : "crafter",
+    "background_skill_proficiencies" : [
+        "investigation",
+        "persuasion"
+    ],
+    "background_tool_proficiencies" : [
+        "artisan_tools"
+    ],
+    "background_equipment" : {
+        "artisan_tools" : 1,
+        "pouch" : 2,
+        "travelers clothes" : 1,
+        "gold" : 32
+    },
+    "wealth" : {
+        "platinum" : 0,
+        "electrum" : 0,
+        "gold" : 50,
+        "silver" : 0,
+        "copper" : 0
+    }
+}
